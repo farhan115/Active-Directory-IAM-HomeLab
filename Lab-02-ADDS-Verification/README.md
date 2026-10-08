@@ -44,3 +44,7 @@ Executed:
 - Validate DNS using DCDIAG
 - Create Organizational Units
 - Configure users and security groups
+
+## Evidence — AD Services Verification
+
+![Active Directory Services Verification](screenshots/ad-services-verification.png)
