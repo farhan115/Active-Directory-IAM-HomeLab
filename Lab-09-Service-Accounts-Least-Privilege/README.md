@@ -1,0 +1,1 @@
+Created a dedicated Active Directory service identity and granted read-only access to a practice reports directory through a domain-local security group. Verified account settings, group membership, folder Effective Access, and inherited file permissions.
