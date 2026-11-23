@@ -1,0 +1,1 @@
+Completed a Windows Server 2025 Active Directory offboarding lab using PowerShell to disable 1 test account, remove 1 direct security group membership, and move the account to a dedicated OU, verifying all 3 changes with before-and-after evidence.
