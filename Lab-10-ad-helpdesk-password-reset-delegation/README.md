@@ -1,1 +1,0 @@
-Delegated password-reset permissions to a help desk security group in a Windows Server Active Directory lab and verified least-privilege access across 2 organizational units using PowerShell, confirming 1 authorized reset and 1 out-of-scope denial with the same technician account.
